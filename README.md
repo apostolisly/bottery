@@ -99,6 +99,7 @@ When the pointer uses an exit, the following occurs:
 ## Interface Overview
 
 ![UI overview](doc_images/bottery_ui.png?raw=true)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fbottery.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fbottery?ref=badge_shield)
 
 ### Chat
 
@@ -355,3 +356,7 @@ This concludes the tutorial. For more examples of types of bots, check out:
 * `quiz.js` A basic quiz game where the user answers questions and these are used to determine a Hip Hop DJ name.
 * `tesla.js` A bot based on the tracery [twitter bot](https://twitter.com/losttesla) of the same name.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fbottery.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fbottery?ref=badge_large)
